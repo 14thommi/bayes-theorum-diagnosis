@@ -1,6 +1,6 @@
 # Your Diagnosis is Accurate ... But Likely Wrong
-### By: Michael Thompson
-### May 12th, 2021
+##### By: Michael Thompson
+##### May 12th, 2021
 
 ## Description
 Is your recent diagnosis as accurate as the doctor says?
